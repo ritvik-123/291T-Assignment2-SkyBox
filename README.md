@@ -28,7 +28,7 @@ This repository contains an OpenGL/GLUT-based game or assignment developed in C+
 
 ### Option A — Windows (Code::Blocks)
 1. Install **Code::Blocks** with **MinGW**.
-2. Open `Project1.cbp` in Code::Blocks.
+2. Open `Assignment2_SkyBoxPly.cbp` in Code::Blocks.
 3. Make sure the compiler is properly configured.
 4. Click **Build & Run (F9)**.
 
