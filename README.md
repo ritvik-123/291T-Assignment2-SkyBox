@@ -1,7 +1,7 @@
 # RoadRash (OpenGL / GLUT)
 
-> **Course/Assignment:** _[Fill in: Course name + Assignment #]_  
-> **Author:** _[Fill in your name]_  
+> **Course/Assignment:** Assignment 2 Skybox
+> **Author:** Ritvik  
 > **Language/Tech:** C++, OpenGL, GLUT / FreeGLUT
 
 ---
