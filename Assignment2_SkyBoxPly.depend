@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1741232302 source:d:\my work\ms\3rd sem\csci 291t\assignment2_skyboxply\main.cpp
+	<windows.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<_scene.h>
+
+1741057349 d:\my work\ms\3rd sem\csci 291t\assignment2_skyboxply\include\_scene.h
+	<_common.h>
+
+1740452296 d:\my work\ms\3rd sem\csci 291t\assignment2_skyboxply\include\_common.h
+	<windows.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	<GL/glut.h>
+	<math.h>
+	<time.h>
+	<iostream>
+
+1738273719 d:\my work\ms\3rd sem\csci 291t\common\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1742801948 source:d:\my work\ms\3rd sem\csci 291t\assignment2_skyboxply\src\_2dplyer.cpp
+	"_2Dplyer.h"
+
+1742798481 d:\my work\ms\3rd sem\csci 291t\assignment2_skyboxply\include\_2dplyer.h
+	<_common.h>
+	<_timer.h>
+	<_textureloader.h>
+
+1740452458 d:\my work\ms\3rd sem\csci 291t\assignment2_skyboxply\include\_timer.h
+	<_common.h>
+
+1740454772 d:\my work\ms\3rd sem\csci 291t\assignment2_skyboxply\include\_textureloader.h
+	<_common.h>
+	<SOIL.h>
+
+1739415277 d:\my work\ms\3rd sem\csci 291t\common\include\soil.h
+
+1742802218 source:d:\my work\ms\3rd sem\csci 291t\assignment2_skyboxply\src\_inputs.cpp
+	"_inputs.h"
+
+1742687848 d:\my work\ms\3rd sem\csci 291t\assignment2_skyboxply\include\_inputs.h
+	<_common.h>
+	<_model.h>
+	<_parallax.h>
+	<_skybox.h>
+	<_2Dplyer.h>
+
+1739416718 d:\my work\ms\3rd sem\csci 291t\assignment2_skyboxply\include\_model.h
+	<_common.h>
+	<_textureloader.h>
+
+1740452860 d:\my work\ms\3rd sem\csci 291t\assignment2_skyboxply\include\_parallax.h
+	<_common.h>
+	<_textureloader.h>
+	<_timer.h>
+
+1740624690 d:\my work\ms\3rd sem\csci 291t\assignment2_skyboxply\include\_skybox.h
+	<_common.h>
+	<_textureloader.h>
+
+1738640355 source:d:\my work\ms\3rd sem\csci 291t\assignment2_skyboxply\src\_lighting.cpp
+	"_lighting.h"
+
+1738640062 d:\my work\ms\3rd sem\csci 291t\assignment2_skyboxply\include\_lighting.h
+	<_common.h>
+
+1739416703 source:d:\my work\ms\3rd sem\csci 291t\assignment2_skyboxply\src\_model.cpp
+	"_model.h"
+
+1740452860 source:d:\my work\ms\3rd sem\csci 291t\assignment2_skyboxply\src\_parallax.cpp
+	"_parallax.h"
+
+1742682904 source:d:\my work\ms\3rd sem\csci 291t\assignment2_skyboxply\src\_scene.cpp
+	"_scene.h"
+	<_lighting.h>
+	<_model.h>
+	<_inputs.h>
+	<_parallax.h>
+	<_skybox.h>
+	<_2Dplyer.h>
+
+1742410585 source:d:\my work\ms\3rd sem\csci 291t\assignment2_skyboxply\src\_singleimgsb.cpp
+	"_SingleIMGSB.h"
+
+1742410585 d:\my work\ms\3rd sem\csci 291t\assignment2_skyboxply\include\_singleimgsb.h
+
+1741058302 source:d:\my work\ms\3rd sem\csci 291t\assignment2_skyboxply\src\_textureloader.cpp
+	"_textureloader.h"
+
+1740452626 source:d:\my work\ms\3rd sem\csci 291t\assignment2_skyboxply\src\_timer.cpp
+	"_timer.h"
+
+1742684620 source:d:\my work\ms\3rd sem\csci 291t\assignment2_skyboxply\src\_skybox.cpp
+	"_skybox.h"
+
