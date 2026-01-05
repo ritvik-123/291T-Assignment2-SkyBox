@@ -1,4 +1,4 @@
-# RoadRash (OpenGL / GLUT)
+# Assignment-2 SkyBox
 
 > **Course/Assignment:** Assignment 2 Skybox
 > **Author:** Ritvik  
